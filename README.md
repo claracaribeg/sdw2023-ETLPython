@@ -1,7 +1,5 @@
 # Santander Bootcamp 2023 - Explorando IA Generativa em um Pipeline de ETL com Python 
 
-## Rastreamento de Despesas por Categoria
-
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido para ajudar as pessoas a controlar suas despesas por categoria. O objetivo é permitir que os usuários registrem suas despesas e, em seguida, analisem e visualizem essas despesas por categoria de forma simples e prática.
